@@ -1,0 +1,89 @@
+{
+    "name": "Переход в раздел Новости с помощью кнопки на главной странице",
+    "start": 1691079685235,
+    "stop": 1691079693096,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости с помощью кнопки на главной странице приложения",
+            "start": 1691079692592,
+            "stop": 1691079692592,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что видна кнопка перехода в раздел редактирования новостей",
+            "start": 1691079692943,
+            "stop": 1691079692943,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "86debdd9-1074-4d4a-a87e-8ffd232a806c",
+    "historyId": "1bfbb3c96d393fce42a69a74f3eee607",
+    "fullName": "AndroidTest.tests.MainPageTest.isItPossibleToGoToNewsSectionWithMainPageButton",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "isItPossibleToGoToNewsSectionWithMainPageButton"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главной страницы приложения"
+        }
+    ]
+}

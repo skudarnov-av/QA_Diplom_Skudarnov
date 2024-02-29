@@ -1,0 +1,89 @@
+{
+    "name": "Ввод валидного логина и пустого пароля при авторизации",
+    "start": 1691079594328,
+    "stop": 1691079599096,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вводим логин login2 и пароль ",
+            "start": 1691079598526,
+            "stop": 1691079598526,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем сообщение о недопустимости незаполненных логина или пароля",
+            "start": 1691079598911,
+            "stop": 1691079598911,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "725bedd7-df58-4f5a-8131-0ab1f9832e1f",
+    "historyId": "b041d53af64c9a51c9ab9342af3db9a0",
+    "fullName": "AndroidTest.tests.AutorizationTest.correctLoginEmptyPasswordAuthorizationTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.AutorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "correctLoginEmptyPasswordAuthorizationTest"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.AutorizationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы авторизации приложения"
+        }
+    ]
+}

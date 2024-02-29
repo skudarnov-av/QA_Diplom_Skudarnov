@@ -1,0 +1,89 @@
+{
+    "name": "Переход в раздел Цитаты с помощью кнопки на главной странице",
+    "start": 1691079660755,
+    "stop": 1691079668933,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Цитаты с помощью кнопки на главной странице приложения",
+            "start": 1691079668342,
+            "stop": 1691079668342,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что виден заголовок раздела Цитаты",
+            "start": 1691079668707,
+            "stop": 1691079668707,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "45978100-1883-4180-b5c0-7b3c3e004950",
+    "historyId": "8bbf7684ee96b3dc8546db61d12f844",
+    "fullName": "AndroidTest.tests.MainPageTest.isItPossibleToGoToQuotesSectionWithMainPageButton",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "isItPossibleToGoToQuotesSectionWithMainPageButton"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главной страницы приложения"
+        }
+    ]
+}

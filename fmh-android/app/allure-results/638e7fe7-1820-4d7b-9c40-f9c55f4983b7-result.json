@@ -1,0 +1,185 @@
+{
+    "name": "Отмена добавление новости при нажатии кнопки Отмена",
+    "start": 1691079873652,
+    "stop": 1691080009321,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости",
+            "start": 1691079881048,
+            "stop": 1691079881048,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переходим в раздел редактирования новостей",
+            "start": 1691079881704,
+            "stop": 1691079881704,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполняем все поля создаваемой новости",
+            "start": 1691079882080,
+            "stop": 1691079882080,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажимаем Отмена",
+            "start": 1691079882483,
+            "stop": 1691079882483,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Подтверждаем отмену создания новости",
+            "start": 1691079882867,
+            "stop": 1691079882867,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажимаем системную кнопку Назад",
+            "start": 1691079883197,
+            "stop": 1691079883197,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Получаем количество элементов в списке новостей",
+            "start": 1691079883400,
+            "stop": 1691079883400,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что новость не создана",
+            "start": 1691079883401,
+            "stop": 1691079883401,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "638e7fe7-1820-4d7b-9c40-f9c55f4983b7",
+    "historyId": "295c380b7ab58c0fceaf515c3cd80f7f",
+    "fullName": "AndroidTest.tests.NewsEditingPageTest.testCancelAddingNewsWithPressCancel",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCancelAddingNewsWithPressCancel"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы редактирования новостей"
+        }
+    ]
+}

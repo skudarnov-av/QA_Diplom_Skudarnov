@@ -1,0 +1,89 @@
+{
+    "name": "Переход в раздел Заявки с помощью кнопки в меню навигации приложения",
+    "start": 1691079693119,
+    "stop": 1691079701468,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Заявки с помощью кнопки в меню навигации приложения",
+            "start": 1691079700513,
+            "stop": 1691079700513,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что видна кнопка фильтрации заявок",
+            "start": 1691079701265,
+            "stop": 1691079701265,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "e6d09770-ca68-471a-afe3-33b469063bb0",
+    "historyId": "5f96e8df25956959987a6f4d68b09930",
+    "fullName": "AndroidTest.tests.MainPageTest.isItPossibleToGoToClaimsSectionWithNavigationMenuButton",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "isItPossibleToGoToClaimsSectionWithNavigationMenuButton"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главной страницы приложения"
+        }
+    ]
+}

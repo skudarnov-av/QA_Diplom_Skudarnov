@@ -1,0 +1,105 @@
+{
+    "name": "Возврат из раздела Цитаты на предыдущую страницу приложения при тапе на BACK",
+    "start": 1691079652618,
+    "stop": 1691079660745,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Цитаты с помощью кнопки на главной странице приложения",
+            "start": 1691079659961,
+            "stop": 1691079659961,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажимаем системную кнопку Назад",
+            "start": 1691079660336,
+            "stop": 1691079660336,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что видна кнопка перехода в раздел Заявки",
+            "start": 1691079660547,
+            "stop": 1691079660547,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "248e3ce2-4dfc-48b5-9938-58c2ab303de6",
+    "historyId": "3a915478d2a9884dfa3619b7ce30f594",
+    "fullName": "AndroidTest.tests.MainPageTest.returnFromQuotesPageToPreviousPageByTapBack",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "returnFromQuotesPageToPreviousPageByTapBack"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главной страницы приложения"
+        }
+    ]
+}

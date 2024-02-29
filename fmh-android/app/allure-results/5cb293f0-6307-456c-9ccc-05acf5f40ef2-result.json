@@ -1,0 +1,89 @@
+{
+    "name": "Видимость сведений о  разработчике приложения",
+    "start": 1691079585399,
+    "stop": 1691079594321,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел О приложении",
+            "start": 1691079592883,
+            "stop": 1691079592883,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем наличие сведений о разработчике приложения",
+            "start": 1691079593647,
+            "stop": 1691079593647,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5cb293f0-6307-456c-9ccc-05acf5f40ef2",
+    "historyId": "2306d37e905c0df20c72e20c366ed041",
+    "fullName": "AndroidTest.tests.AboutPageTest.testVisibleDeveloper",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.AboutPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testVisibleDeveloper"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.AboutPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы О приложении"
+        }
+    ]
+}

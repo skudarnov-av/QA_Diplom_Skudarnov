@@ -1,0 +1,121 @@
+{
+    "name": "Отказ в добавление новости при незаполненном поле Заголовок",
+    "start": 1691079864024,
+    "stop": 1691079873637,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости",
+            "start": 1691079871435,
+            "stop": 1691079871436,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переходим в раздел редактирования новостей",
+            "start": 1691079872067,
+            "stop": 1691079872067,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Пытаемся создать новость с незаполненным полем Заголовок",
+            "start": 1691079872471,
+            "stop": 1691079872471,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем сообщение о недопустимости наличия пустых полей при создании новости",
+            "start": 1691079873359,
+            "stop": 1691079873359,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "af81fb5d-ba52-451d-8996-a3b0a12108c4",
+    "historyId": "d5a52ce6c4a8263b81d03c66ff424e40",
+    "fullName": "AndroidTest.tests.NewsEditingPageTest.testRefusalAddingNewsWithEmptyFieldTittle",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRefusalAddingNewsWithEmptyFieldTittle"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы редактирования новостей"
+        }
+    ]
+}

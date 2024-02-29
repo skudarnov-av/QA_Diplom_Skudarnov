@@ -1,0 +1,153 @@
+{
+    "name": "Развернуть новость",
+    "start": 1691080109397,
+    "stop": 1691080118395,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости",
+            "start": 1691080116801,
+            "stop": 1691080116801,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Получаем recyclerView для раздела Новости и прокручиваем до его первой позиции",
+            "start": 1691080117742,
+            "stop": 1691080117742,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Получаем высоту первого элемента списка до клика",
+            "start": 1691080117742,
+            "stop": 1691080117742,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Кликаем на первом элементе списка, чтобы элемент развернулся",
+            "start": 1691080117743,
+            "stop": 1691080117743,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Получаем высоту первого элемента списка после клика",
+            "start": 1691080118060,
+            "stop": 1691080118060,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что высота первого элемента списка увеличилась после клика",
+            "start": 1691080118061,
+            "stop": 1691080118061,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "eeb87889-454c-4f0d-afab-bb2a4dc9a24c",
+    "historyId": "83fbb8635bb088e807a1f012aa4c4f87",
+    "fullName": "AndroidTest.tests.NewsPageTest.testExpandNews",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.NewsPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExpandNews"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.NewsPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы Новости"
+        }
+    ]
+}

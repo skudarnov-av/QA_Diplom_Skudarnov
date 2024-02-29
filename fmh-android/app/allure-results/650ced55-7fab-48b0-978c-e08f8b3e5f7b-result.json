@@ -1,0 +1,121 @@
+{
+    "name": "Отказ в добавление новости при незаполненном поле Дата",
+    "start": 1691080009330,
+    "stop": 1691080019472,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости",
+            "start": 1691080016716,
+            "stop": 1691080016716,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переходим в раздел редактирования новостей",
+            "start": 1691080017510,
+            "stop": 1691080017510,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Пытаемся создать новость с незаполненным полем Дата",
+            "start": 1691080017894,
+            "stop": 1691080017894,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем сообщение о недопустимости наличия пустых полей при создании новости",
+            "start": 1691080018730,
+            "stop": 1691080018730,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "650ced55-7fab-48b0-978c-e08f8b3e5f7b",
+    "historyId": "f9ed54449486f01718176ba4edd2df9c",
+    "fullName": "AndroidTest.tests.NewsEditingPageTest.testRefusalAddingNewsWithEmptyFieldDate",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRefusalAddingNewsWithEmptyFieldDate"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.NewsEditingPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5069)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование страницы редактирования новостей"
+        }
+    ]
+}
